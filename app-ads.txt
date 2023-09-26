@@ -117,6 +117,7 @@ spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 thebrave.io, 1234594, RESELLER, c25b2154543746ac
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
+themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 unity.com, 3409946, DIRECT, 96cabb5fbdde37a7
