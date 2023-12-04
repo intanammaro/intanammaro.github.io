@@ -5,7 +5,7 @@ adelement.com, 30167, RESELLER
 admanmedia.com, 613, RESELLER
 admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
 admixplay.com, 2012, RESELLER
-adsyield.com, 1233, DIRECT
+adsyield.com, 1233, RESELLER
 adview.com, 48045325, RESELLER, 1b2cc038a11ea319
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 algorix.co, 60016, RESELLER, 5b394c12fea27a1d
@@ -56,7 +56,7 @@ loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 meitu.com, 282, RESELLER
 meitu.com, 699, RESELLER
 mintegral.com, 10038, RESELLER
-onetag.com, 7d9af0b85b5070e, DIRECT
+onetag.com, 7d9af0b85b5070e, RESELLER
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
